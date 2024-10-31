@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dist folder for production builds
+dist/
+
+# Local environment configuration
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+# Output of vue-cli-service build
+/public/static/
+
+# IntelliJ IDEA
+.idea/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Yarn lock file (if using npm instead)
+yarn.lock
+
+# Build cache
+/.cache
