@@ -1,5 +1,4 @@
-# Project Name
-    Online Book Reading Web
+# Online Book Reading Web-frondend
 
 ## Technology Stack
 
